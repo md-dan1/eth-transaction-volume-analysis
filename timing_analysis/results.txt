@@ -31,7 +31,6 @@ Total instance:      7.4 MiB  (7,769,676 B)
 
 Per vertex:          162.9 B
 Per TX in window:    642.2 B
-Model:               M ~ 162.9 * n_vertices + 642.2 * n_txs + const
 
 Current allocated:   37.7 MiB
 Peak allocated:      58.6 MiB
